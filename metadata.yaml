@@ -1,0 +1,32 @@
+_repo: The-adventures-of-Dora-Bell-detective_70924
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Corbett, George, Mrs.
+    aliases:
+    - Corbett, Mrs. George
+    - Corbett, Elizabeth Burgoyne
+    birthdate: 1846
+    deathdate: 1930
+    gutenberg_agent_id: '49067'
+    url: http://www.gutenberg.org/2009/agents/49067
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Burgoyne_Corbett
+description: ''
+gutenberg_issued: '2023-06-06'
+identifiers:
+  gutenberg: '70924'
+language: en
+pgterms:marc904: https://newspapers.library.wales/search?range%5Bmin%5D=1894-1-05T00%3A00%3A00Z&range%5Bmax%5D=1894-03-31T00%3A00%3A00Z&alt=%28full_text%3Aof+dora+bell%29&page=1&refine=&alt=full_text%3A%22of+dora+bell%22&sort=score&order=desc&rows=12&publication%5B%5D=South+Wales+Echo
+pgterms:marc905: 20230411134837corbett
+pgterms:marc906: '1894'
+pgterms:marc907: GB
+production_note: Payton D. Cooke using digitized scans generously made available online
+  by the National Library of Wales.
+publication_note: '  $aUnited Kingdom :$bSouth Wales Echo, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The adventures of Dora Bell, detective
+url: http://www.gutenberg.org/ebooks/70924
